@@ -1,3 +1,10 @@
+![pic1](https://github.com/user-attachments/assets/11923a17-03e4-4347-b62e-1f3b7ec7c369)
+![pic2](https://github.com/user-attachments/assets/5fe60c52-6059-42b7-b666-605c7d2052ff)
+![PIC3](https://github.com/user-attachments/assets/68c90e4d-5a20-4ecf-9d0e-e9e19a94f515)
+![PIC4](https://github.com/user-attachments/assets/36f896e9-8356-48ae-93e5-fd414086db1e)
+![pic5](https://github.com/user-attachments/assets/5eb4ec91-8505-47fd-bd4b-76065537859b)
+![p6](https://github.com/user-attachments/assets/4581f0b2-ee55-4b7c-bc7a-f19adc97e469)
+
 # MERN Stack Live Chat App with Chatbot
 
 This is a live chat application built using the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for real-time communication. The app also includes a chatbot for automated responses.
